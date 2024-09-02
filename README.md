@@ -3,7 +3,11 @@
 </div>
 
 <h1>
-  A front-end developer
-
-  
+  A front-end developer.
 </h1>
+
+<h2>
+  my skills:
+</h2>
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,less,sass,py,react" />
