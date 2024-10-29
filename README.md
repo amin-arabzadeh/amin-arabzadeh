@@ -10,5 +10,5 @@
   my skills:
 </h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,less,sass,py,react" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,less,sass,py,react,tailwind" />
 
